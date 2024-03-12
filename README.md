@@ -11,7 +11,7 @@ Le projet vise à développer un service interopérable avec un système d'infor
    - Utilisation de BeautifulSoup pour extraire des informations des sites sources.
    - Scripts dédiés (nvd_scrapping.py et certfr_scrapping.py) pour la collecte des données depuis le site NIST et CERT-FR.
 
-2. **Application de tests d'évasion**
+2. **Application de tests d'évasion** (Manipulation des en-têtes | Utilisation du Framework Selenium)
    - Vérification de la capacité du robot à éviter la détection lors de la collecte de données.
 
 ### Partie 2: Persistence des données et fonctionnalités de recherche
