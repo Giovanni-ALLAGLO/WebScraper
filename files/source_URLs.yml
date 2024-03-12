@@ -1,0 +1,16 @@
+#fichier contenant l'url des sources.
+
+NvdScrapper:
+  url: https://nvd.nist.gov
+  source: NVD | National Vulnerability Database - NSIT | National Institute of Standards and Technology
+  description: |
+    The NVD is the U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol (SCAP). 
+    This data enables automation of vulnerability management, security measurement, and compliance. The NVD includes databases of security checklist references,
+    security-related software flaws, product names, and impact metrics.
+
+CertfrScrapper:
+  url: https://www.cert.ssi.gouv.fr
+  source: CERT-FR | Centre gouvernemental de veille,d'alerte et de réponse aux attaques informatiques
+  description: |
+    Le CERT-FR est le CERT (Computer Emergency Response Team) ou CSIRT (Computer Security Incident Response Team) Gouvernemental et National Français 
+    et traite, sur le plan technique, les incidents de cybersécurité. Le CERT-FR est porté par la Sous-Direction Opérations de l’Agence nationale de la sécurité des systèmes d’information (ANSSI).
