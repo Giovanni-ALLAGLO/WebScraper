@@ -3,8 +3,8 @@ import bs4
 from bs4 import BeautifulSoup
 import pandas as pd
 from datetime import datetime
-from scrapping_interface import ScrapperInterface
-from ..utils import encode, months_Fr2En
+from .scrapping_interface import ScrapperInterface
+from .utils import encode, months_Fr2En
 
 class CertfrScrapper(ScrapperInterface):
     """
